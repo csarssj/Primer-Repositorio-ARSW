@@ -82,6 +82,7 @@ mvn test
 
 _Fecha : 3 de junio del 2020_ 
 
+LOCS/Hora 496 / 14  = 35 LOCS/Hora
 
 ## License
 
