@@ -28,7 +28,7 @@ java -cp target/miprimera-app-1.0-SNAPSHOT.jar edu.escuelaing.arem.ASE.linecount
 
 A continuación un ejemplo:
 
-
+![image](https://github.com/csarssj/Primer-Repositorio-ARSW/blob/master/resources/ejemplo.png)
 
 ### Prerequisitos
 
@@ -46,7 +46,7 @@ El sistema, mas alla de facilitar el registro de las iniciativas e ideas de proy
 ### Diagrama de clases
 
 
-
+![image](https://github.com/csarssj/Primer-Repositorio-ARSW/blob/master/resources/diagrama.png)
 
 
 El diseño esta compuesto por una clase llamada "LineCounter" que es donde se llaman los demás métodos que se encargaran 
@@ -62,7 +62,7 @@ A continuación se muestra un reporte de las pruebas realizadas en el programa l
 mvn test
 ```
 
-
+![image](https://github.com/csarssj/Primer-Repositorio-ARSW/blob/master/resources/pruebas.png)
 
 
 
