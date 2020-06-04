@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.io.LineNumberReader;
 
 /**
-* File reads a file from the hard drive
+* Lee los archivos ingresados por el usuario.
 *
 * @author Cesar Gonzalez
 */

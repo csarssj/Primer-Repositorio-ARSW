@@ -5,12 +5,18 @@ import java.io.LineNumberReader;
 
 
 /**
-* Count the lines in files of type Physical
+* Cuenta las lineas de un archivo incluyendo lineas comentadas y lineas en blanco.
 * 
 * @author Cesar Gonzalez
 */
 public class PHYLineCounter implements Counter{
-
+	
+    /**
+     * Cuenta las lineas de un archivo tipo "phy"
+     *
+     * @param ln texto del archivo a contar
+     * @return lineas del archivo
+     */
 	@Override
 	public int countLines(LineNumberReader ln) {
 		try {
